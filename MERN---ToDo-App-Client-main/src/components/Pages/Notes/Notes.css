@@ -1,0 +1,34 @@
+.notes-container {
+    width: 60%;
+    margin: 0 auto;
+    color: white;
+}
+
+.card-container {
+    background-color: transparent !important;
+    border: none !important;
+    border: 1px solid white !important
+}
+
+.card-container .h5 {
+    text-transform: uppercase;
+}
+
+.card-container p {
+    color: gray;
+}
+
+.icon {
+    color: red;
+    font-size: 15px;
+    margin-left: 30px;
+    border: 1px solid #0DCAF0;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+.icon:hover {
+    background-color: #0DCAF0;
+    color: black;
+    cursor: pointer;
+}

@@ -1,0 +1,19 @@
+.loading-background {
+    background-image: url('https://t4.ftcdn.net/jpg/04/68/80/05/360_F_468800596_xnyTYzHjXjoFjpaEQ9O0pauJRgPLwhFy.jpg');
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.7);
+    background-blend-mode: overlay;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.spinner {
+    color: white;
+    font-size: 150px;
+
+}

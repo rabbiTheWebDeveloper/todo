@@ -1,0 +1,22 @@
+.register-background {
+    background-image: url('https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4wppn?ver=c334');
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.7);
+    background-blend-mode: overlay;
+}
+
+.form-container {
+    width: 30% !important;
+    color: white;
+    padding-top: 8%;
+}
+
+.form-container input {
+    background: transparent;
+    outline: none;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.4);
+}

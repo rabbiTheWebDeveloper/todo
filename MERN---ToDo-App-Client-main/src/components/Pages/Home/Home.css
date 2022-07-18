@@ -1,0 +1,58 @@
+.home-container {
+    background-image: url("https://wallpaperaccess.com/full/1567666.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.home {
+    width: 60%;
+    margin: 0 auto;
+    color: white;
+    /* background-color: red; */
+}
+
+.home h1 {
+    display: inline-block;
+    padding: 10px 40px;
+    border: 3px solid white;
+    margin-bottom: 50px;
+}
+
+.input-fields {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.input-fields input {
+    width: 100%;
+    padding: 10px 10px;
+    margin-bottom: 20px;
+    background: transparent;
+    border: none;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+}
+
+.input-fields textarea {
+    width: 100%;
+    padding: 5px 10px;
+    margin-bottom: 20px;
+    background: transparent;
+    border: none;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+}
+
+.input-fields button {
+    width: 90%;
+    margin-bottom: 20px;
+}
+
+.HR {
+    border-bottom: 3px solid white;
+    margin-bottom: 20px;
+}

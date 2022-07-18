@@ -1,0 +1,12 @@
+.menu button {
+    background: transparent;
+    color: white;
+    border: none;
+
+}
+
+.header-title,
+.menu button {
+    font-size: 20px;
+    margin-left: 20px
+}

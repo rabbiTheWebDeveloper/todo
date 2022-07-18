@@ -1,0 +1,13 @@
+.copyright-container {
+    background-color: #01172F;
+}
+
+.copyright-container p {
+    margin: 0;
+    padding: 0;
+    color: #adadad;
+    font-size: 13px;
+    padding: 8px;
+    font-weight: 400;
+    text-align: center;
+}
